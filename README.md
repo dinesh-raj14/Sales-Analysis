@@ -1,1 +1,29 @@
 # Sales-Analysis
+
+### Project Overview
+
+This  project focuses on analyzing sales data  for improving business decisions. By integrating multiple datasets, the dashboard provides a comprehensive view of sales trends, regional performance, and product analysis
+
+### Data Sources
+
+Calendar Data- This dataset  "MavenMarket_Calendar.csv" file, Contains calendar-related information for date-based analysis.
+
+Products Data - This dataset "MavenMarket_Products.csv" file, Details on products, including categories and pricing.
+
+Regions Data- This dataset "MavenMarket_Regions.csv" file , contains Regional and geographic information for sales distribution analysis.
+
+Stores Data- This dataset "MavenMarket_Stores.csv" file, Includes information about store locations and performance.
+
+Returns Data- This dataset "MavenMarket_Returns.csv" file, Tracks product returns and their reasons.
+
+Customers Data- This dataset "MavenMarket_Customers.csv" file, Contains customer demographics and purchasing behavior.
+
+### Tools
+
+Power Query Editor: For data cleaning and exploration.
+
+DAX (Data Analysis Expressions): For writing measures and calculated columns.
+
+Power BI: For creating dashboards and visualizations.
+
+
