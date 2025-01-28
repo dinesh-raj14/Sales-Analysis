@@ -26,4 +26,28 @@ DAX (Data Analysis Expressions): For writing measures and calculated columns.
 
 Power BI: For creating dashboards and visualizations.
 
+###  Data cleaning/Preparing
+
+imported csv files into Power Query Editor.
+
+confirmed the datatypes are accurate and cosistency like wholenumber,text,decimalnumbers.
+
+Added  relevant new column in calendar includes,
+Start of Week 
+Name of Day
+Start of Month
+Name of Month
+Quarter of Year
+Year 
+
+Replace the null values into 0 
+
+### Build Relationship
+
+connect the fact tables like transaction data and returns data to dimensions tables.
+
+Established a relationship between them.
+
+
+
 
