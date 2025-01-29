@@ -48,6 +48,19 @@ connect the fact tables like transaction data and returns data to dimensions tab
 
 Established a relationship between them.
 
+### DAX Calculations
+
+Created Measures for ,
+
+Total Transactions
+
+Total Returns
+
+Return rate
+
+Total Profit
+
+Revenue Target
 
 
 
