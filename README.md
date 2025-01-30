@@ -60,7 +60,17 @@ Return rate
 
 Total Profit
 
+Total Revenue 
+
+Total cost
+
+Unique Products
+
+Last Month Revenue/Returns DAX: Last Month Revenue = CALCULATE([Total Revenue],DATEADD('Calendar'[date],-1,MONTH))
+
 Revenue Target
+
+### Dashboard
 
 
 
