@@ -88,6 +88,22 @@ Created KPI for Current Month Revenue & Returns.
 
 Added Bookmark to Clear Filters.
 
+###  Findings
+
+Identified the months/quarters with the highest revenue, showing clear seasonality in sales.
+
+Highlighted regions with lower sales for targeted improvement strategies.
+
+Specific product Brand contribute the most to overall revenue.
+
+Identified product  with frequent returns, pointing to potential quality or satisfaction issues.
+
+
+
+
+
+
+
 
 
 
