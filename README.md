@@ -72,5 +72,23 @@ Revenue Target
 
 ### Dashboard
 
+Developed a Dashboard with following;
+
+created KPI cards for Total revenue,Returns,Transactions,Profit.
+
+Created Matrix Table to show Top 30 Products .
+
+Created a Map visualisation to know region Transactions along with a slicer.
+
+Created a Gauge chart to show Revenue against Target.
+
+Created Barchart to know the Monthly Revenue.
+
+Created KPI for Current Month Revenue & Returns.
+
+Added Bookmark to Clear Filters.
+
+
+
 
 
