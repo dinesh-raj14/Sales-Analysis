@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This  project focuses on analyzing sales data  for improving business decisions. By integrating multiple datasets, the dashboard provides a comprehensive view of sales trends, regional performance, and product analysis
+This  project focuses on analyzing sales data  for improving business decisions. By integrating multiple datasets, the dashboard provides a comprehensive view of Revenue trends, regional performance, and product analysis
 
 ### Data Sources
 
